@@ -68,16 +68,6 @@ gitalk:
 # Analytics settings
 # Baidu Analytics
 
-<script>
-var _hmt = _hmt || [];
-(function() {
-  var hm = document.createElement("script");
-  hm.src = "https://hm.baidu.com/hm.js?3666c436a3149bcf33a089b3a8943d5f";
-  var s = document.getElementsByTagName("script")[0]; 
-  s.parentNode.insertBefore(hm, s);
-})();
-</script>
-
 
 # Google Analytics
 ga_track_id: 'UA-150342587-1'            # Format: UA-xxxxxx-xx
